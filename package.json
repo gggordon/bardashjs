@@ -1,0 +1,25 @@
+{
+  "name": "bardashjs",
+  "version": "0.0.1",
+  "description": "Bar Chart Dashboards Made Easy!",
+  "main": "bardash.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggordon/bardashjs.git"
+  },
+  "keywords": [
+    "bar",
+    "chart",
+    "js",
+    "dashboard"
+  ],
+  "author": "gggordon <https://github.com/gggordon>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gggordon/bardashjs/issues"
+  },
+  "homepage": "https://github.com/gggordon/bardashjs#readme"
+}
